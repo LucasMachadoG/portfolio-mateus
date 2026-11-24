@@ -1,0 +1,5 @@
+{
+  // O YouTube bloqueia vídeos incorporados em páginas servidas por 127.0.0.1
+  // (padrão do Live Server). Com "localhost" o vídeo do hero e o player funcionam.
+  "liveServer.settings.host": "localhost"
+}
